@@ -1,13 +1,13 @@
-# E-commerce Website – Shopee-like UI/UX (Figma Design)
+# E-commerce Website –like UI/UX (Figma Design)
 
 ## 📖 Giới thiệu
 Dự án này là **thiết kế giao diện người dùng (UI/UX)** cho một website thương mại điện tử 
-Được thực hiện bằng **Figma**, sản phẩm tập trung vào việc mô phỏng trải nghiệm mua sắm trực tuyến: từ tìm kiếm, lọc sản phẩm, giỏ hàng, thanh toán đến quản lý người bán.  
+Được thực hiện bằng **Figma**, sản phẩm tập trung vào việc mô phỏng trải nghiệm mua sắm trực tuyến: từ tìm kiếm, lọc sản phẩm, đặt lịch, giỏ hàng, thanh toán đến quản lý người bán.  
 
 ---
 
 ## 🎯 Mục tiêu
-- Nghiên cứu và phân tích trải nghiệm người dùng (User Experience) trên nền tảng Shopee.  
+- Nghiên cứu và phân tích trải nghiệm người dùng (User Experience) trên nền tảng thương mại điện tử.  
 - Xây dựng bộ thiết kế UI hoàn chỉnh, trực quan, dễ sử dụng.  
 - Đề xuất giải pháp cải tiến giao diện nhằm tối ưu hành trình mua hàng (Customer Journey).  
 
